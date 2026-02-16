@@ -20,11 +20,17 @@
 
 ---
 
-## 💡 Currently Learning
-- Advanced JavaScript
-- Backend Development
-- Clean Code & OOP
-- Database Optimization
+## 🌱 Currently Learning
+
+![Windows](https://img.shields.io/badge/Windows-Forms-blue?style=for-the-badge&logo=windows&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+- Building Desktop Applications
+- Event-Driven Programming
+- Database Integration with SQL Server
+- Improving Object-Oriented Programming Skills
+
 
 ---
 
