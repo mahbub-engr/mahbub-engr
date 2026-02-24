@@ -26,6 +26,7 @@
 ![Windows](https://img.shields.io/badge/Windows-Forms-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/react-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - Building Desktop Applications
 - Event-Driven Programming
