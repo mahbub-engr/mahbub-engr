@@ -1,4 +1,4 @@
-# Hi there, I'm Mahbub 👋
+# Hi there, I'm Mahbub Alam 👋
 
 💻 Passionate Developer | Continuous Learner  
 🌱 Currently improving my skills every day  
