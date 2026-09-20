@@ -26,7 +26,8 @@
 [![](https://komarev.com/ghpvc/?username=mahbub-engr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahbub-engr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ⭐ "Consistency is more important than motivation."
 <!-- GitHub Snake Animation -->
 <p align="center">
