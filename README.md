@@ -19,7 +19,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mahbub-engr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=mahbub-engr&theme=dark&hide&timezone=UTC) <br/>
+![](https://streak-stats.demolab.com?user=mahbub-engr&theme=dark&hide) <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahbub-engr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
